@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+.pfp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+header{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.nav_ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+}
+
+.nav_ul li{
+    float: left;
+    position: relative;
+}
+
+.nav_ul li a{
+    text-decoration: none;
+    margin: 10px;
+    border: 2px;
+    text-align: center;
+    color: #005677;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.nav_ul li a:hover{
+    background-color: #C4C4C4;
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-indent: 5em;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+footer{
+    background-color: #005677;
+    color: white;
+
+    text-align: center;
+    padding: 10px;
+}
+
+#rs{
+    padding-left: 20px;
+}
